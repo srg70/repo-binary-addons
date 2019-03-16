@@ -1,1 +1,1 @@
-pvr.puzzle.tv https://github.com/srg70/pvr.puzzle.tv master
+pvr.puzzle.tv https://github.com/srg70/pvr.puzzle.tv origin/17.6-Krypton
